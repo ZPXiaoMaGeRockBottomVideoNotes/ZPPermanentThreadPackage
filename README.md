@@ -1,0 +1,2 @@
+# ZPPermanentThreadPackage
+本Demo主要介绍了如何利用RunLoop创建了一个常驻线程，并且对创建过程进行了一个封装，便于以后的项目直接调用。相关的注释参考RunLoop Demo。
